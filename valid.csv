@@ -1,0 +1,1927 @@
+image,annotations__label,annotations__coordinates__x,annotations__coordinates__y,annotations__coordinates__width,annotations__coordinates__height
+130064v.jpg,No issues,2037,660,514,265
+,No issues,2101,2210,531,271
+,No issues,2065,1180,506,264
+,Broken,2101,1692,515,259
+,Broken,1985,0,670,2848
+,No issues,2023,141,505,270
+,No issues,2033,415,503,246
+,No issues,2044,925,520,256
+,No issues,2077,1436,515,268
+,No issues,2105,1962,513,270
+,No issues,2115,2493,531,271
+,No issues,2010,0,494,144
+,No issues,2129,2757,528,90
+160454d.JPG,No issues,1534,2153,762,387
+,Broken,1568,1127,745,369
+,Broken,1457,401,911,2605
+,No issues,1604,443,737,385
+,No issues,1551,1476,762,387
+,No issues,1519,2518,762,387
+,No issues,1544,1793,762,387
+,No issues,1597,795,730,340
+170046d.JPG,No issues,1210,547,578,287
+,Broken,1213,1109,558,286
+,Broken,1145,3,654,2132
+,No issues,1210,1389,570,285
+,No issues,1205,831,578,287
+,No issues,1216,266,573,278
+,No issues,1214,1673,571,309
+,No issues,1219,1978,562,157
+,No issues,1224,0,555,270
+170315 (2)v.JPG,No issues,2122,808,164,297
+,No issues,2437,779,158,300
+,No issues,2756,732,168,309
+,No issues,2919,722,194,302
+,Flashover damage,2590,754,171,309
+,Flashover damage,1026,701,2127,547
+,No issues,2275,790,174,300
+,No issues,1965,822,169,297
+,No issues,1812,846,167,295
+,No issues,1651,866,167,295
+,No issues,1502,881,167,295
+,No issues,1345,898,174,300
+,No issues,1193,907,174,300
+,No issues,1040,930,174,300
+100279h.JPG,No issues,1334,649,416,212
+,No issues,1337,239,422,215
+,Broken,1331,1234,419,202
+,Broken,1286,4,491,1684
+,No issues,1327,29,422,215
+,No issues,1330,440,422,215
+,No issues,1332,826,422,215
+,No issues,1344,1031,415,197
+,No issues,1345,1434,394,196
+150679 (2)d.JPG,No issues,1922,8,1547,1040
+,Flashover damage,1608,1233,1615,1239
+,Flashover damage,1552,0,2131,2624
+,No issues,1761,637,1580,1040
+,No issues,2055,0,1548,436
+161396.JPG,No issues,1773,2379,813,438
+,Flashover damage,1781,2002,791,432
+,Flashover damage,1773,1120,825,594
+,Flashover damage,1705,1056,948,1953
+,No issues,1767,1679,833,337
+,Flashover damage,1776,2719,799,289
+170061v.JPG,No issues,1630,1747,416,333
+,No issues,2530,182,425,329
+,No issues,2405,376,410,359
+,Broken,1887,1293,405,329
+,Broken,2127,836,433,279
+,Broken,1521,8,1556,2122
+,No issues,1772,1520,390,345
+,No issues,2014,1065,407,328
+,No issues,2270,585,407,328
+,No issues,2680,0,392,283
+170689 (2)d.JPG,No issues,1566,591,286,172
+,No issues,1568,1560,287,163
+,No issues,1568,1892,293,163
+,Broken,1578,1235,269,162
+,Broken,1563,1082,292,165
+,Broken,1566,914,282,168
+,Broken,1553,279,331,2161
+,Flashover damage,1568,2219,291,216
+,No issues,1567,1724,293,163
+,No issues,1553,2061,293,163
+,No issues,1563,1393,293,163
+,No issues,1558,759,290,148
+,No issues,1568,443,289,160
+,No issues,1564,289,289,154
+160623.JPG,No issues,1847,2327,463,239
+,No issues,1850,1602,469,279
+,Flashover damage,1838,1958,481,268
+,Flashover damage,1839,1250,486,271
+,Flashover damage,1845,675,486,264
+,Flashover damage,1845,281,489,276
+,Flashover damage,1777,1,611,2922
+,No issues,1852,2494,463,239
+,No issues,1855,2656,463,239
+,Flashover damage,1846,2143,460,253
+,No issues,1849,1778,469,279
+,No issues,1843,1424,469,279
+,No issues,1851,1020,469,279
+,No issues,1854,478,469,279
+,No issues,1850,78,488,282
+,No issues,1844,0,485,150
+161061.JPG,Flashover damage,2028,2159,306,179
+,Flashover damage,2012,2287,313,193
+,Flashover damage,2032,2025,314,190
+,Flashover damage,2043,1898,315,175
+,Flashover damage,2056,1780,327,171
+,Flashover damage,2067,1624,322,195
+,Flashover damage,2089,1304,328,242
+,Flashover damage,1983,1270,466,1250
+161410v.JPG,No issues,1882,38,586,308
+,Flashover damage,1912,569,594,337
+,Flashover damage,1890,287,620,324
+,Flashover damage,1924,1074,615,371
+,Flashover damage,1952,1627,611,451
+,Flashover damage,1861,0,712,2100
+170068.JPG,No issues,742,1421,653,364
+,Broken,790,843,667,389
+,Broken,685,8,864,2128
+,No issues,721,1690,653,364
+,No issues,815,556,646,380
+,No issues,841,256,646,380
+,No issues,862,0,649,349
+,No issues,702,1963,627,173
+170068v.JPG,No issues,742,350,653,364
+,Broken,790,903,667,389
+,Broken,685,0,864,2128
+,No issues,721,81,653,364
+,No issues,815,1199,646,380
+,No issues,841,1499,646,380
+,No issues,862,1786,649,349
+,No issues,702,0,627,173
+170177.JPG,No issues,1462,704,332,170
+,Broken,1418,1361,329,163
+,Broken,1438,1036,312,167
+,Broken,1364,5,493,2125
+,No issues,1471,535,332,170
+,No issues,1481,366,332,170
+,No issues,1486,193,332,170
+,No issues,1496,0,312,194
+,No issues,1451,871,332,170
+,No issues,1434,1201,316,161
+,No issues,1421,1524,316,161
+,No issues,1415,1683,316,170
+,No issues,1404,1851,316,170
+,No issues,1399,2012,304,124
+170342h.JPG,No issues,1491,1355,392,275
+,Broken,1665,954,371,259
+,Broken,1133,6,1302,2439
+,No issues,1406,1570,385,258
+,No issues,1316,1773,385,258
+,No issues,1237,1991,385,258
+,No issues,1147,2198,385,258
+,No issues,1724,754,386,245
+,No issues,1806,533,385,275
+,No issues,1880,327,385,275
+,No issues,1961,114,385,275
+,No issues,2049,0,382,136
+170699v.JPG,No issues,1596,939,572,984
+,Broken,2623,954,538,988
+,Broken,1,862,4362,1162
+,No issues,1097,957,572,984
+,No issues,625,958,572,984
+,No issues,148,954,572,984
+,No issues,2098,918,631,1018
+,No issues,3063,930,631,1018
+,No issues,3574,912,773,1051
+150465v.JPG,No issues,1119,2673,834,891
+,Broken,2446,1581,842,748
+,Broken,166,611,4088,3387
+,No issues,666,3108,834,891
+,No issues,1572,2248,834,891
+,No issues,2020,1833,820,865
+,No issues,2953,1000,820,865
+,No issues,3408,612,820,865
+,No issues,5042,14,958,980
+,No issues,5508,11,492,941
+,No issues,5055,17,559,947
+150711 (2).JPG,No issues,2794,2405,554,256
+,No issues,2809,2633,511,283
+,No issues,2836,707,552,289
+,Flashover damage,2814,1935,527,276
+,Flashover damage,2819,1685,531,294
+,Flashover damage,2766,240,676,3709
+,No issues,2834,448,552,289
+,No issues,2823,948,552,289
+,No issues,2821,1191,552,289
+,No issues,2825,1440,552,289
+,No issues,2781,3335,552,289
+,No issues,2792,3111,554,256
+,No issues,2802,2876,554,256
+,No issues,2791,3579,554,256
+,Flashover damage,2818,2148,527,276
+170079v.JPG,No issues,763,482,585,302
+,No issues,673,2563,599,338
+,Broken,787,1359,520,348
+,Broken,728,1849,574,328
+,Broken,745,916,589,317
+,Broken,655,0,719,3214
+,No issues,671,2838,599,338
+,No issues,681,2317,599,338
+,No issues,776,259,599,338
+,No issues,776,45,599,338
+,No issues,798,0,577,190
+160041.JPG,Flashover damage,2211,718,488,263
+,Flashover damage,2192,479,489,265
+,Flashover damage,2151,36,492,259
+,Flashover damage,2265,1377,488,276
+,Flashover damage,2298,1832,482,265
+,Flashover damage,2241,1170,491,262
+,Flashover damage,2154,277,500,247
+,Flashover damage,2122,1,759,3008
+,No issues,2225,935,483,260
+,No issues,2281,1619,486,250
+,No issues,2306,2081,486,250
+,No issues,2329,2300,486,250
+,No issues,2357,2530,486,250
+,No issues,2370,2752,486,250
+160693d.JPG,No issues,1984,940,443,219
+,Flashover damage,2002,1102,425,234
+,Flashover damage,1955,42,425,186
+,Flashover damage,1976,472,438,236
+,Flashover damage,1989,1411,467,350
+,Flashover damage,1917,0,569,1809
+,Flashover damage,1987,788,425,234
+,Flashover damage,1957,334,425,234
+161134.JPG,Flashover damage,1697,2590,712,379
+,Flashover damage,1709,2017,691,404
+,Flashover damage,1688,1465,721,371
+,Flashover damage,1684,1077,716,476
+,Flashover damage,1650,1035,830,1974
+,Flashover damage,1703,1738,721,371
+,Flashover damage,1704,2305,691,404
+161466v.JPG,No issues,475,25,564,599
+,No issues,2779,1799,611,645
+,No issues,1157,508,542,647
+,Broken,2153,1339,412,539
+,Broken,45,0,3613,2686
+,No issues,3021,1998,611,645
+,No issues,2546,1608,611,645
+,No issues,1647,868,611,645
+,No issues,720,156,611,645
+,No issues,1415,682,542,647
+,No issues,244,0,480,462
+170193d.JPG,No issues,1397,439,583,293
+,Broken,1379,1025,604,300
+,Broken,1337,0,697,2058
+,No issues,1393,739,584,300
+,No issues,1417,145,584,300
+,No issues,1382,1332,584,300
+,No issues,1417,0,592,156
+,No issues,1368,1627,593,416
+170735d.JPG,No issues,1690,474,461,265
+,No issues,1690,729,447,261
+,Broken,1697,1253,431,328
+,Broken,1673,0,512,1617
+,No issues,1685,996,448,293
+,No issues,1697,228,453,255
+,No issues,1714,0,453,229
+130013v.JPG,No issues,1735,476,533,290
+,Flashover damage,1702,1446,554,404
+,Flashover damage,1693,0,601,1890
+,No issues,1718,1206,533,290
+,Flashover damage,1721,963,527,272
+,No issues,1721,717,533,290
+,No issues,1743,233,533,290
+,No issues,1750,0,533,290
+150730.jpg,No issues,1158,1675,303,148
+,No issues,1140,1959,300,165
+,Flashover damage,1175,1535,298,149
+,Flashover damage,1015,2917,300,165
+,Flashover damage,1100,2381,275,154
+,Flashover damage,1000,860,562,2350
+,No issues,1250,881,303,212
+,No issues,1236,1083,300,165
+,No issues,1218,1233,300,165
+,No issues,1202,1379,300,165
+,No issues,1152,1805,300,165
+,No issues,1124,2095,300,165
+,No issues,1096,2229,300,165
+,No issues,1082,2511,283,156
+,Flashover damage,1060,2641,285,170
+,No issues,1044,2787,283,156
+,No issues,1012,3059,283,156
+150730d.jpg,No issues,1130,2048,303,148
+,No issues,1151,1747,300,165
+,Flashover damage,1118,2187,298,149
+,Flashover damage,1276,789,300,165
+,Flashover damage,1216,1336,275,154
+,Flashover damage,1029,661,562,2350
+,No issues,1038,2778,303,212
+,No issues,1055,2623,300,165
+,No issues,1073,2473,300,165
+,No issues,1089,2327,300,165
+,No issues,1139,1901,300,165
+,No issues,1167,1611,300,165
+,No issues,1195,1477,300,165
+,No issues,1226,1204,283,156
+,Flashover damage,1246,1060,285,170
+,No issues,1264,928,283,156
+,No issues,1296,656,283,156
+161502v.JPG,No issues,2539,1803,978,620
+,Broken,2404,1035,979,599
+,Broken,2196,9,1497,2991
+,No issues,2695,2644,975,363
+,No issues,2620,2235,978,620
+,No issues,2364,658,929,596
+,No issues,2295,247,942,606
+,No issues,2236,0,919,429
+170095h.JPG,Broken,819,1026,925,772
+,Broken,802,945,1022,1192
+170095d.JPG,Broken,819,337,925,772
+,Broken,802,0,1022,1192
+170513 (2).JPG,No issues,1834,1358,248,241
+,Broken,1618,1117,242,217
+,Broken,679,10,2238,2432
+,No issues,1925,1478,248,241
+,No issues,2033,1607,248,241
+,No issues,2131,1723,248,241
+,No issues,2233,1854,248,241
+,No issues,2341,1974,248,241
+,No issues,2555,2243,240,213
+,No issues,2439,2105,248,241
+,No issues,1510,964,248,241
+,No issues,1414,851,248,241
+,No issues,1322,728,248,241
+,No issues,1207,586,248,241
+,No issues,1096,477,248,241
+,No issues,996,345,248,241
+,No issues,891,217,248,241
+,No issues,795,77,248,241
+,No issues,692,0,241,175
+170809d.JPG,No issues,1628,746,334,169
+,Broken,1636,1108,334,168
+,Broken,1590,0,410,1738
+,No issues,1628,640,334,169
+,No issues,1628,505,334,169
+,No issues,1641,399,334,169
+,No issues,1631,279,334,169
+,No issues,1636,152,334,169
+,No issues,1630,40,334,169
+,No issues,1639,1483,328,238
+,No issues,1635,1354,334,183
+,No issues,1633,869,334,169
+130021h.jpg,No issues,1882,547,347,185
+,Flashover damage,1871,166,345,210
+,Flashover damage,1848,143,468,2576
+,No issues,1872,368,347,185
+,No issues,1887,726,347,185
+,No issues,1896,903,347,185
+,No issues,1910,1080,347,185
+,No issues,1917,1254,347,185
+,No issues,1926,1431,347,185
+,No issues,1931,1603,347,185
+,No issues,1940,1777,347,185
+,No issues,1959,1951,347,185
+,No issues,1959,2130,347,185
+,No issues,1964,2295,347,185
+,No issues,1959,2472,347,178
+140069h.JPG,No issues,1964,1768,486,265
+,Flashover damage,1921,1188,542,334
+,Flashover damage,1895,1074,621,1775
+,No issues,1950,1515,488,260
+,No issues,1983,2029,486,265
+,No issues,1997,2293,486,265
+,No issues,2009,2562,486,265
+150740 (2)v.JPG,No issues,2921,1307,502,286
+,No issues,2909,1680,515,278
+,No issues,2867,2627,545,294
+,Flashover damage,2887,2040,536,285
+,Flashover damage,2847,3037,557,293
+,Flashover damage,2841,3234,563,425
+,Flashover damage,2790,425,695,3300
+,No issues,2867,2423,545,294
+,No issues,2894,1500,545,294
+,No issues,2918,1147,520,291
+,No issues,2938,974,520,291
+,No issues,2941,794,520,291
+,No issues,2944,631,520,291
+,No issues,2944,472,520,291
+,No issues,2919,1860,515,278
+,No issues,2853,2831,545,294
+170218v.JPG,No issues,1197,1598,305,156
+,No issues,1196,2697,324,234
+,No issues,1198,1910,313,155
+,No issues,1183,530,309,145
+,No issues,1187,368,305,160
+,Flashover damage,1192,828,302,158
+,Flashover damage,1189,1135,304,145
+,No issues,1185,1435,315,158
+,Flashover damage,1193,1280,304,170
+,Flashover damage,1195,2377,321,156
+,Flashover damage,1195,2214,319,169
+,Flashover damage,1196,2058,316,158
+,Flashover damage,1187,977,309,158
+,Flashover damage,1188,677,305,156
+,Flashover damage,1189,1747,326,162
+,Flashover damage,1203,2528,313,168
+,Flashover damage,1166,293,369,2666
+170520d.JPG,No issues,1908,1182,285,160
+,Broken,1886,1554,287,152
+,Broken,1825,774,443,1680
+,Broken,1899,1306,287,152
+,No issues,1835,2319,288,136
+,No issues,1843,2196,289,159
+,No issues,1852,2067,278,165
+,No issues,1867,1936,278,165
+,No issues,1870,1805,278,165
+,No issues,1881,1685,278,165
+,No issues,1902,1433,276,132
+,No issues,1924,1046,279,161
+,No issues,1931,930,279,161
+,No issues,1946,801,279,161
+130030d.jpg,No issues,1952,592,392,219
+,No issues,1959,434,403,218
+,No issues,1905,1120,412,232
+,Flashover damage,1939,763,402,243
+,Flashover damage,1982,95,391,230
+,Flashover damage,1831,2256,456,337
+,Flashover damage,1788,0,688,2624
+,Flashover damage,1972,252,391,230
+,Flashover damage,1872,1865,412,251
+,Flashover damage,1877,1670,416,238
+,No issues,1879,1516,416,202
+,Flashover damage,1887,1307,415,224
+,Flashover damage,1918,942,415,224
+,No issues,1857,2067,416,202
+170007.JPG,No issues,1627,1428,252,566
+,No issues,2123,1418,275,560
+,No issues,3150,1402,259,586
+,No issues,2631,1415,269,566
+,Flashover damage,3910,1400,387,593
+,Flashover damage,802,1375,3526,649
+,No issues,3647,1396,259,586
+,No issues,3404,1406,259,586
+,No issues,2899,1407,259,586
+,No issues,2384,1408,259,586
+,No issues,1882,1418,259,586
+,No issues,1377,1422,259,586
+,No issues,1112,1410,259,586
+,No issues,860,1417,259,586
+100137.JPG,No issues,905,284,700,472
+,No issues,807,1,685,393
+,Broken,1224,1386,556,411
+,Broken,1085,1016,577,393
+,Broken,1040,644,654,408
+,Broken,761,9,1258,2115
+,No issues,1308,1750,663,386
+100137d.JPG,No issues,1610,1379,700,472
+,No issues,1723,1741,685,393
+,Broken,1435,338,556,411
+,Broken,1553,726,577,393
+,Broken,1521,1083,654,408
+,Broken,1196,11,1258,2115
+,No issues,1244,0,663,386
+150091v.JPG,No issues,1552,2047,309,178
+,Broken,1522,1548,313,167
+,Broken,1479,665,411,1916
+,No issues,1566,2385,309,178
+,No issues,1563,2217,309,178
+,No issues,1551,1879,309,178
+,No issues,1537,1708,309,178
+,No issues,1521,1379,309,178
+,No issues,1513,1219,309,178
+,No issues,1505,1055,309,178
+,No issues,1491,898,309,178
+,No issues,1497,743,309,178
+170148v.JPG,No issues,1465,266,818,479
+,Flashover damage,1498,894,808,661
+,Flashover damage,1418,0,921,1626
+,No issues,1462,0,777,435
+,No issues,1486,581,809,462
+100190.JPG,No issues,879,441,722,377
+,No issues,832,24,727,466
+,Flashover damage,958,1472,721,348
+,Flashover damage,892,806,727,366
+,Flashover damage,807,1,917,2136
+,Flashover damage,1010,1733,694,387
+,Flashover damage,935,1099,717,381
+150345v.JPG,No issues,1739,2366,394,224
+,No issues,1718,1758,394,223
+,No issues,1693,746,378,204
+,No issues,1688,344,378,216
+,No issues,1674,158,405,186
+,Flashover damage,1690,543,387,219
+,Flashover damage,1701,941,392,214
+,Flashover damage,1689,1146,415,224
+,Flashover damage,1706,1552,399,212
+,Flashover damage,1729,2167,389,230
+,Flashover damage,1639,0,523,2583
+,No issues,1732,1966,389,212
+,No issues,1707,1358,389,212
+150345d.JPG,No issues,1738,2366,394,224
+,No issues,1759,1758,394,223
+,No issues,1800,746,378,204
+,No issues,1805,344,378,216
+,No issues,1792,158,405,186
+,Flashover damage,1794,543,387,219
+,Flashover damage,1778,941,392,214
+,Flashover damage,1767,1146,415,224
+,Flashover damage,1766,1552,399,212
+,Flashover damage,1753,2167,389,230
+,Flashover damage,1709,0,523,2583
+,No issues,1750,1966,389,212
+,No issues,1775,1358,389,212
+150621 (2).JPG,No issues,2776,3074,452,251
+,No issues,2861,1266,470,259
+,No issues,2840,1487,479,256
+,Flashover damage,2770,3457,443,260
+,Flashover damage,2815,2292,458,256
+,Flashover damage,2879,555,474,329
+,Flashover damage,2701,447,882,3512
+,No issues,2871,1052,470,259
+,Flashover damage,2886,852,458,256
+,No issues,2843,1684,479,256
+,No issues,2833,1891,479,256
+,No issues,2812,2499,432,242
+,No issues,2808,2696,432,242
+,No issues,2811,2879,432,242
+,No issues,2759,3665,452,251
+150621 (2)v.JPG,No issues,2776,674,452,251
+,No issues,2861,2474,470,259
+,No issues,2840,2256,479,256
+,Flashover damage,2770,282,443,260
+,Flashover damage,2815,1451,458,256
+,Flashover damage,2879,3115,474,329
+,Flashover damage,2701,40,882,3512
+,No issues,2871,2688,470,259
+,Flashover damage,2886,2891,458,256
+,No issues,2843,2059,479,256
+,No issues,2833,1852,479,256
+,No issues,2812,1258,432,242
+,No issues,2808,1061,432,242
+,No issues,2811,878,432,242
+,No issues,2759,83,452,251
+150864.JPG,No issues,4127,2569,1874,453
+,No issues,1895,887,286,284
+,Broken,2755,1673,271,261
+,Broken,726,1,3011,2666
+,No issues,893,0,277,231
+,No issues,1046,75,286,284
+,No issues,1185,217,286,284
+,No issues,1327,349,286,284
+,No issues,1473,485,286,284
+,No issues,1609,614,286,284
+,No issues,1755,753,286,284
+,No issues,2033,1035,286,284
+,No issues,2175,1154,286,284
+,No issues,2317,1293,286,284
+,No issues,2456,1412,286,284
+,No issues,2588,1565,286,284
+,No issues,2893,1813,286,284
+,No issues,3032,1938,286,284
+,No issues,3164,2053,286,284
+,No issues,3303,2188,286,284
+,No issues,3439,2317,286,284
+160873A.JPG,No issues,1031,2383,1753,626
+,Flashover damage,1136,749,1749,1407
+,Flashover damage,980,635,1943,2374
+170037d.JPG,No issues,1962,1596,437,244
+,Broken,1843,791,392,210
+,Broken,1828,723,715,1731
+,No issues,2092,2211,437,244
+,No issues,2049,2011,437,244
+,No issues,2008,1784,437,244
+,No issues,1929,1372,437,244
+,No issues,1894,1158,437,244
+,No issues,1851,985,437,244
+170567v.JPG,No issues,1,1134,783,1000
+,No issues,981,969,161,278
+,No issues,2189,1277,171,293
+,No issues,2539,1385,201,287
+,No issues,2417,1346,188,290
+,No issues,2300,1310,177,278
+,Broken,1963,1217,158,282
+,Broken,1843,1183,135,217
+,Broken,1730,1155,145,280
+,Broken,1635,1124,143,274
+,Broken,1299,1031,141,293
+,Broken,869,936,1894,763
+,No issues,2079,1240,171,293
+,No issues,1084,987,171,293
+,No issues,873,946,161,278
+,No issues,40,1874,212,196
+,No issues,113,1753,229,195
+,No issues,201,1627,229,195
+,No issues,284,1506,229,195
+,No issues,370,1396,229,195
+,No issues,451,1275,229,195
+,No issues,539,1156,228,179
+100267d.JPG,No issues,1672,1510,458,246
+,No issues,1103,379,464,315
+,Broken,1503,1148,432,316
+,Broken,825,0,1398,1922
+,No issues,1224,577,432,319
+,No issues,1317,777,432,319
+,No issues,1028,209,432,319
+,No issues,927,25,432,319
+150949d.jpg,No issues,1774,1424,270,162
+,No issues,1806,1002,265,153
+,No issues,1867,218,243,147
+,Flashover damage,1848,501,247,155
+,Flashover damage,1831,696,258,152
+,Flashover damage,1782,1304,270,167
+,Flashover damage,1762,1650,277,221
+,Flashover damage,1738,101,410,1791
+,Flashover damage,1819,893,258,152
+,Flashover damage,1851,307,258,152
+,No issues,1875,133,243,147
+,No issues,1799,1095,265,156
+,No issues,1789,1202,265,156
+,No issues,1856,405,243,122
+170058h.JPG,No issues,421,532,219,359
+,No issues,586,589,224,359
+,No issues,762,661,231,350
+,Broken,1471,898,189,352
+,Broken,1291,837,201,338
+,Broken,1116,783,205,352
+,Broken,0,314,1686,962
+,No issues,919,713,231,350
+,No issues,234,464,231,350
+,No issues,64,400,231,350
+,No issues,0,332,118,350
+170168.JPG,Flashover damage,1116,1816,285,140
+,Flashover damage,1106,1961,292,149
+,Flashover damage,1121,1617,286,205
+,Flashover damage,1085,1594,353,543
+150452h.JPG,Broken,2505,1187,914,993
+,Broken,0,1,4894,3287
+,Broken,4701,1,1297,2633
+,No issues,4712,1821,928,786
+,No issues,4958,1399,928,786
+,No issues,5171,951,828,768
+161056h.JPG,No issues,1791,2565,619,328
+,No issues,1723,298,615,345
+,Broken,1736,955,623,316
+,Broken,1755,1279,596,333
+,Broken,1767,1925,639,294
+,Broken,1700,16,752,2987
+,No issues,1709,0,642,301
+,No issues,1724,630,640,325
+,No issues,1763,2241,640,325
+,Broken,1781,1601,596,333
+150460v.JPG,Flashover damage,1217,1205,469,657
+,No issues,4490,2273,543,746
+,Flashover damage,2504,1588,523,720
+,Flashover damage,443,953,478,714
+,Flashover damage,1714,1347,500,703
+,Flashover damage,3034,1769,513,749
+,Flashover damage,409,913,4723,2179
+,Flashover damage,3906,2075,513,749
+,No issues,715,1041,468,683
+,No issues,3322,1867,537,727
+160643.JPG,No issues,1949,2046,552,283
+,Flashover damage,1941,1212,556,455
+,Flashover damage,1928,1166,582,1843
+,No issues,1956,1589,552,283
+,No issues,1946,1806,552,283
+,No issues,1941,2265,552,283
+,No issues,1938,2497,552,283
+,No issues,1945,2716,552,283
+110007v.JPG,No issues,1266,1072,204,114
+,Flashover damage,1278,1533,207,164
+,Flashover damage,1216,187,279,1525
+,Flashover damage,1270,1255,208,115
+,Flashover damage,1272,1167,206,110
+,Flashover damage,1264,985,206,110
+,No issues,1263,895,198,111
+,No issues,1260,809,198,111
+,No issues,1255,720,198,111
+,No issues,1252,634,198,111
+,No issues,1249,545,198,111
+,No issues,1242,464,198,111
+,No issues,1235,378,198,111
+,No issues,1242,294,198,111
+,No issues,1231,215,198,111
+,No issues,1271,1344,204,114
+,No issues,1278,1441,203,93
+160673v.JPG,No issues,1952,681,572,295
+,Flashover damage,1958,1251,590,447
+,Flashover damage,1916,0,686,1763
+,No issues,1962,967,570,303
+,No issues,1962,405,572,295
+,No issues,1962,119,572,295
+,No issues,1962,0,585,125
+161099v.JPG,No issues,2135,295,678,379
+,No issues,2215,805,653,396
+,Flashover damage,2240,1323,645,451
+,Flashover damage,2051,0,855,1822
+,No issues,2184,548,659,388
+,No issues,2128,40,659,388
+,No issues,2097,0,639,166
+,No issues,2251,1059,633,377
+170713d.JPG,No issues,2505,2521,696,381
+,Broken,2532,1511,636,386
+,Broken,2449,1114,819,2564
+,No issues,2493,2857,689,385
+,No issues,2458,3209,689,385
+,No issues,2504,2193,689,385
+,No issues,2526,1849,689,385
+,No issues,2578,1170,674,354
+170088h.JPG,No issues,1991,1339,479,413
+,Broken,1499,541,501,434
+,Broken,1048,5,1580,2014
+,No issues,2139,1599,479,413
+,No issues,1819,1090,479,413
+,No issues,1678,862,479,413
+,No issues,1363,292,479,413
+,No issues,1201,16,479,413
+130015.JPG,No issues,1251,980,503,253
+,No issues,1317,1661,488,263
+,Flashover damage,1283,1211,493,269
+,Flashover damage,1237,440,493,347
+,Flashover damage,1209,421,639,1580
+,No issues,1302,1442,482,252
+,No issues,1261,990,503,253
+140064h.JPG,No issues,2022,962,427,236
+,Broken,1991,1628,469,256
+,Broken,1945,11,564,2824
+,No issues,2034,39,427,236
+,No issues,2039,271,427,236
+,No issues,2029,499,427,236
+,No issues,2024,727,427,236
+,No issues,2012,1189,427,236
+,No issues,2007,1402,427,236
+,No issues,1998,1886,433,222
+,No issues,1993,2106,433,222
+,No issues,1983,2331,433,222
+,No issues,1983,2554,433,222
+160082 (2).JPG,No issues,1748,999,886,477
+,Flashover damage,1777,1449,891,473
+,Flashover damage,1676,12,1074,2997
+,No issues,1697,80,896,492
+,No issues,1725,537,896,492
+,No issues,1799,1872,896,492
+,No issues,1814,2321,896,492
+,No issues,1834,2516,896,492
+170211 (2).JPG,No issues,1634,1762,287,140
+,No issues,1616,2031,280,111
+,No issues,1596,2149,270,136
+,No issues,1668,1159,294,135
+,No issues,1659,1525,285,130
+,Flashover damage,1621,1896,292,135
+,Flashover damage,1670,1272,286,153
+,Flashover damage,1674,910,301,153
+,Flashover damage,1691,623,296,186
+,Flashover damage,1573,594,421,1731
+,Flashover damage,1682,792,291,142
+,No issues,1668,1040,294,135
+,No issues,1673,1393,285,130
+,No issues,1641,1647,285,130
+170211 (2)d.JPG,No issues,1758,553,287,140
+,No issues,1783,313,280,111
+,No issues,1813,170,270,136
+,No issues,1717,1161,294,135
+,No issues,1735,800,285,130
+,Flashover damage,1766,424,292,135
+,Flashover damage,1723,1030,286,153
+,Flashover damage,1704,1392,301,153
+,Flashover damage,1692,1646,296,186
+,Flashover damage,1685,130,421,1731
+,Flashover damage,1706,1521,291,142
+,No issues,1717,1280,294,135
+,No issues,1721,932,285,130
+,No issues,1753,678,285,130
+140070d.JPG,No issues,1966,2130,491,279
+,Broken,1983,1329,477,286
+,Broken,1933,1293,549,1553
+,No issues,1950,2661,509,186
+,No issues,1968,2393,491,279
+,No issues,1978,1871,491,279
+,No issues,1983,1597,491,279
+150526d.JPG,No issues,2761,1481,469,277
+,No issues,2791,1840,484,284
+,Flashover damage,2896,3201,512,390
+,Flashover damage,2636,462,803,3199
+,No issues,2856,2804,513,307
+,No issues,2829,2607,513,307
+,No issues,2819,2407,513,307
+,No issues,2799,2217,513,307
+,No issues,2789,2027,513,307
+,No issues,2765,1668,499,280
+,No issues,2761,1318,479,270
+,No issues,2734,1126,459,272
+,No issues,2714,967,472,275
+,No issues,2704,794,472,278
+,No issues,2687,648,472,254
+,No issues,2677,482,472,254
+161219.JPG,No issues,1848,1650,708,422
+,Flashover damage,1827,2358,695,367
+,Flashover damage,1823,2126,699,392
+,Flashover damage,1857,1039,737,569
+,Flashover damage,1747,1002,872,2007
+,Flashover damage,1791,2577,695,367
+161516.JPG,No issues,2173,561,743,373
+,No issues,2181,1937,712,354
+,Broken,2169,1247,745,329
+,Broken,2114,16,852,2978
+,No issues,2188,214,743,373
+,No issues,2198,0,721,241
+,No issues,2153,1598,739,342
+,No issues,2152,2583,743,373
+,No issues,2166,2250,743,373
+,No issues,2172,912,743,373
+170522v.JPG,No issues,1669,961,195,119
+,Broken,1707,1358,207,110
+,Broken,1586,448,364,1363
+,No issues,1727,1550,196,127
+,No issues,1715,1448,196,127
+,No issues,1703,1243,192,116
+,No issues,1691,1154,192,116
+,No issues,1677,1056,192,116
+,No issues,1667,860,192,116
+,No issues,1655,760,192,116
+,No issues,1641,665,192,116
+,No issues,1638,572,192,116
+,No issues,1622,472,192,116
+170127v.JPG,No issues,2354,1136,712,817
+,Broken,1586,688,661,747
+,Broken,82,20,3121,2101
+,No issues,2591,1354,625,781
+,No issues,2086,975,712,817
+,No issues,1857,827,712,817
+,No issues,897,184,712,817
+,No issues,646,46,712,817
+,No issues,656,36,712,817
+170528h.JPG,No issues,874,1982,332,155
+,No issues,871,960,321,162
+,Broken,853,504,334,163
+,Broken,869,1702,325,153
+,Broken,832,277,446,2482
+,No issues,860,293,345,215
+,No issues,861,666,321,162
+,No issues,871,802,321,162
+,No issues,875,1105,321,162
+,No issues,871,1247,321,162
+,No issues,875,1395,321,162
+,No issues,871,1548,321,162
+,No issues,878,1851,324,143
+,No issues,889,2105,312,173
+,No issues,899,2405,312,173
+,No issues,895,2535,312,173
+,Broken,895,2251,318,170
+130038v.JPG,No issues,1390,1016,387,429
+,No issues,488,893,443,437
+,Broken,1230,290,389,410
+,Broken,1048,452,419,429
+,Broken,21,15,2962,1958
+,No issues,681,1610,416,389
+,No issues,861,1460,404,417
+,No issues,1039,1313,404,417
+,No issues,1217,1160,401,424
+,No issues,1735,717,401,424
+,No issues,1920,575,401,424
+,No issues,2092,419,401,424
+,No issues,2279,264,401,424
+,No issues,2471,120,401,424
+,No issues,332,1036,443,437
+,No issues,162,1194,443,437
+,No issues,0,1353,405,437
+,No issues,696,747,412,432
+,No issues,1409,129,412,432
+,No issues,1594,0,412,432
+,No issues,2651,0,357,401
+150604 (2)h.JPG,No issues,2864,402,930,577
+,Broken,2898,1263,935,600
+,Broken,2787,1,1107,2327
+,No issues,2842,0,953,539
+,No issues,2846,852,953,539
+,No issues,2924,1833,901,397
+150604 (2)d.JPG,No issues,2864,3020,930,577
+,Broken,2898,2136,935,600
+,Broken,2787,1671,1107,2327
+,No issues,2842,3460,953,539
+,No issues,2846,2608,953,539
+,No issues,2924,1769,901,397
+150839d.JPG,No issues,0,679,1768,780
+,No issues,3893,3018,236,224
+,No issues,3613,2697,248,232
+,No issues,3809,2912,229,221
+,Broken,2125,1012,225,206
+,Broken,2226,1146,202,178
+,Broken,2876,1840,227,229
+,Broken,2021,899,2400,2710
+,No issues,4183,3354,236,224
+,No issues,4091,3226,236,224
+,No issues,3995,3120,236,224
+,No issues,3714,2810,236,224
+,No issues,3536,2597,236,224
+,No issues,3437,2484,236,224
+,No issues,3356,2381,236,224
+,No issues,3253,2278,236,224
+,No issues,3164,2172,236,224
+,No issues,3058,2059,236,224
+,No issues,2977,1974,236,224
+,No issues,2803,1751,193,184
+,No issues,2689,1639,236,224
+,No issues,2600,1533,236,224
+,No issues,2511,1427,236,224
+,No issues,2415,1317,236,224
+,No issues,2328,1232,231,212
+,No issues,2033,908,231,212
+,No issues,1550,681,190,265
+,No issues,1447,706,201,266
+,No issues,1337,732,201,266
+,No issues,1241,747,201,266
+,No issues,1149,776,201,266
+,No issues,1039,809,201,266
+,No issues,954,842,201,266
+,No issues,862,861,201,266
+,No issues,738,894,201,266
+,No issues,653,923,201,266
+,No issues,550,949,201,266
+,No issues,451,975,201,266
+,No issues,362,1008,201,266
+,No issues,245,1037,201,266
+,No issues,149,1081,201,266
+,No issues,53,1117,201,266
+,No issues,0,1159,149,243
+160438v.JPG,Flashover damage,1809,1262,585,346
+,Flashover damage,1718,0,783,2981
+,No issues,1848,2657,591,350
+,No issues,1839,2381,587,324
+,No issues,1839,2108,587,324
+,No issues,1830,1812,587,324
+,No issues,1814,1562,587,324
+,No issues,1804,994,587,324
+,No issues,1788,718,587,324
+,No issues,1782,448,587,324
+,No issues,1778,185,587,324
+,No issues,1765,0,600,228
+160438d.JPG,Flashover damage,2117,1262,585,346
+,Flashover damage,2010,0,783,2981
+,No issues,2072,2657,591,350
+,No issues,2085,2381,587,324
+,No issues,2085,2108,587,324
+,No issues,2094,1812,587,324
+,No issues,2110,1562,587,324
+,No issues,2120,994,587,324
+,No issues,2136,718,587,324
+,No issues,2142,448,587,324
+,No issues,2146,185,587,324
+,No issues,2146,0,600,228
+160896h.JPG,No issues,1783,230,796,442
+,No issues,1887,1511,763,426
+,Flashover damage,1840,891,766,428
+,Flashover damage,1959,2691,737,318
+,Flashover damage,1921,2093,754,413
+,Flashover damage,1820,542,775,451
+,Flashover damage,1732,12,1044,2997
+,No issues,1953,2385,713,408
+,No issues,1921,1820,713,408
+,No issues,1863,1207,752,418
+,No issues,1770,0,787,334
+170039h.JPG,No issues,1208,1190,575,311
+,Broken,1236,675,554,280
+,Broken,1163,5,670,2132
+,No issues,1207,900,578,347
+,No issues,1222,1405,578,347
+,No issues,1224,1665,578,347
+,No issues,1231,1933,583,203
+,No issues,1195,374,578,347
+,No issues,1192,103,578,347
+,No issues,1190,0,577,185
+170305 (2).JPG,No issues,1634,2270,306,177
+,No issues,1673,1723,306,178
+,Flashover damage,1693,1300,317,271
+,Flashover damage,1611,1272,423,1185
+,No issues,1691,1499,305,182
+,No issues,1683,1613,306,178
+,No issues,1667,1832,306,178
+,No issues,1656,1941,306,178
+,No issues,1653,2051,306,178
+,No issues,1641,2153,306,178
+170305 (2)d.JPG,No issues,1739,8,306,177
+,No issues,1700,554,306,178
+,Flashover damage,1669,884,317,271
+,Flashover damage,1645,0,423,1185
+,No issues,1683,774,305,182
+,No issues,1690,664,306,178
+,No issues,1706,445,306,178
+,No issues,1717,336,306,178
+,No issues,1720,226,306,178
+,No issues,1732,124,306,178
+130061v.jpg,No issues,1662,1815,531,303
+,No issues,1646,2306,551,442
+,Broken,1676,1059,515,277
+,Broken,1666,765,511,277
+,Broken,1618,41,598,2735
+,No issues,1665,2146,531,303
+,No issues,1655,1981,531,303
+,No issues,1672,1660,531,303
+,No issues,1672,1505,531,303
+,No issues,1672,1346,531,303
+,No issues,1672,1202,531,303
+,No issues,1684,482,496,283
+,No issues,1687,347,496,283
+,No issues,1699,198,496,283
+,No issues,1697,58,496,283
+160936v.JPG,No issues,1907,712,965,548
+,Broken,1909,1575,986,567
+,Broken,1885,0,1053,2997
+,No issues,1899,2459,1020,548
+,No issues,1905,2029,1020,548
+,No issues,1888,1155,1020,548
+,No issues,1901,302,965,548
+,No issues,1890,0,979,425
+161315v.JPG,No issues,1779,164,454,235
+,No issues,1777,611,434,233
+,Flashover damage,1759,842,458,230
+,Flashover damage,1747,1284,455,334
+,Flashover damage,1726,0,510,1666
+,No issues,1749,1059,450,257
+,No issues,1776,391,450,252
+,No issues,1795,0,440,203
+170042.JPG,No issues,1444,3494,363,156
+,No issues,1392,2598,372,183
+,No issues,1416,2898,359,174
+,No issues,1424,3199,367,166
+,Flashover damage,1378,2072,364,268
+,Flashover damage,1325,2068,548,2142
+,No issues,1391,2443,372,183
+,Flashover damage,1390,2305,354,178
+,Flashover damage,1410,2747,354,178
+,No issues,1423,3036,359,174
+,No issues,1436,3328,359,174
+,No issues,1447,3468,359,174
+,No issues,1450,3624,359,174
+,No issues,1459,3770,359,174
+,No issues,1461,3915,359,174
+170166v.JPG,No issues,963,1474,431,228
+,Broken,954,1065,410,230
+,Broken,844,0,593,2126
+,Flashover damage,1002,1891,424,233
+,Flashover damage,986,1672,421,230
+,No issues,949,1263,439,247
+,No issues,913,865,439,247
+,No issues,893,663,439,247
+,No issues,886,471,439,247
+,No issues,868,268,439,247
+,No issues,850,70,439,247
+170166d.JPG,No issues,1821,1474,431,228
+,Broken,1851,1065,410,230
+,Broken,1778,0,593,2126
+,Flashover damage,1789,1891,424,233
+,Flashover damage,1808,1672,421,230
+,No issues,1827,1263,439,247
+,No issues,1863,865,439,247
+,No issues,1883,663,439,247
+,No issues,1890,471,439,247
+,No issues,1908,268,439,247
+,No issues,1926,70,439,247
+170313 (2)h.JPG,No issues,1666,2159,461,269
+,No issues,1625,1754,461,264
+,Flashover damage,1573,1000,468,386
+,Flashover damage,1563,973,591,1484
+,No issues,1596,1314,460,282
+,No issues,1615,1533,460,282
+,No issues,1648,1945,461,264
+170621 (2)h.JPG,Broken,1333,910,680,462
+,No issues,1293,642,680,462
+,No issues,1228,356,680,462
+,No issues,1166,70,680,462
+,No issues,1400,1185,680,462
+,No issues,1471,1462,680,462
+,No issues,1531,1739,680,462
+,No issues,1585,1993,680,462
+,No issues,1069,0,1276,2455
+150446v.JPG,No issues,4306,897,869,1294
+,Broken,2564,1309,1030,1297
+,Broken,2479,512,3520,2111
+,No issues,3187,1145,951,1334
+,No issues,3793,1018,851,1302
+,No issues,4839,749,851,1302
+,No issues,5292,616,708,1303
+150950v.jpg,No issues,1752,497,799,436
+,Flashover damage,1741,145,788,472
+,Flashover damage,1759,1129,799,631
+,Flashover damage,1694,0,918,1802
+,No issues,1757,808,793,483
+,No issues,1728,0,783,318
+161034d.JPG,No issues,2070,1140,479,270
+,No issues,2066,1317,493,276
+,Flashover damage,2081,309,472,239
+,Flashover damage,2077,459,476,266
+,Flashover damage,2073,961,493,278
+,Flashover damage,2052,2060,518,421
+,Flashover damage,2010,0,606,2534
+,No issues,2062,1862,501,301
+,No issues,2064,1672,501,301
+,No issues,2066,1488,501,301
+,Flashover damage,2069,797,493,278
+,No issues,2078,635,493,276
+,No issues,2074,1,493,276
+,Flashover damage,2081,140,472,258
+170170h.JPG,No issues,895,2418,235,133
+,No issues,886,2311,242,119
+,No issues,888,2185,244,127
+,No issues,885,1821,241,129
+,No issues,885,1705,240,122
+,No issues,877,1582,252,125
+,No issues,876,1329,250,122
+,No issues,882,1196,250,137
+,No issues,873,1075,252,126
+,No issues,882,811,244,131
+,Flashover damage,887,648,244,169
+,Flashover damage,880,1452,253,130
+,Flashover damage,888,2069,244,120
+,Flashover damage,892,2551,240,122
+,Flashover damage,877,945,255,127
+,Flashover damage,891,1956,243,115
+,Flashover damage,836,620,316,2122
+151191.jpg,No issues,1,1,3872,904
+,No issues,2293,772,421,654
+,Broken,1625,649,412,635
+,Broken,1,350,3864,1242
+,No issues,0,330,297,654
+,No issues,208,406,453,635
+,No issues,559,474,453,635
+,No issues,906,528,453,635
+,No issues,1239,591,453,635
+,No issues,1953,716,453,635
+,No issues,2636,837,453,635
+,No issues,2974,887,453,635
+,No issues,3334,937,453,635
+,No issues,3478,274,394,630
+,No issues,3136,216,453,635
+,No issues,2818,155,453,635
+,No issues,2443,103,453,635
+,No issues,2130,51,453,635
+,No issues,1781,0,453,635
+,No issues,1422,0,450,558
+,No issues,1099,0,437,501
+,No issues,775,0,417,443
+161057.JPG,No issues,2035,559,1111,639
+,Flashover damage,1928,1444,1117,653
+,Flashover damage,1794,12,1432,2997
+,No issues,2091,0,1101,746
+,No issues,1978,1011,1121,670
+,No issues,1885,1869,1121,670
+,No issues,1844,2290,1121,670
+161409v.JPG,No issues,2051,1622,610,421
+,Flashover damage,2059,501,586,283
+,Flashover damage,2025,758,615,342
+,Flashover damage,2034,1315,606,307
+,Flashover damage,1996,0,699,2079
+,No issues,2040,1044,598,344
+,No issues,2038,192,598,344
+,No issues,2036,0,604,248
+170341.JPG,Broken,1992,1405,144,337
+,Broken,1480,1217,1491,622
+,No issues,616,266,288,205
+,No issues,442,1,1023,1532
+,No issues,453,0,303,179
+,No issues,530,147,303,179
+,No issues,694,406,282,226
+,No issues,773,552,282,226
+,No issues,852,702,282,226
+,No issues,931,855,282,226
+,No issues,1010,1000,282,226
+,No issues,1088,1149,282,226
+,No issues,1174,1288,282,226
+,No issues,1495,1502,203,307
+,No issues,1596,1489,203,307
+,No issues,1697,1471,203,307
+,No issues,1796,1458,203,307
+,No issues,1898,1437,203,307
+,No issues,2097,1391,203,307
+,No issues,2196,1370,203,307
+,No issues,2297,1340,225,315
+,No issues,2400,1309,225,315
+,No issues,2509,1287,225,315
+150462d.JPG,No issues,2763,2774,543,314
+,Broken,2796,1975,516,244
+,Broken,2716,443,652,3547
+,No issues,2737,3643,552,356
+,No issues,2753,2764,543,314
+,No issues,2741,3409,552,356
+,No issues,2745,3193,552,356
+,No issues,2757,2985,552,356
+,No issues,2755,2555,552,356
+,No issues,2767,2337,552,356
+,No issues,2767,2133,552,356
+,No issues,2797,1731,520,342
+,No issues,2799,1529,520,342
+,No issues,2797,1331,520,342
+,No issues,2805,1131,520,342
+,No issues,2801,931,520,342
+,No issues,2809,725,520,342
+,No issues,2807,535,520,342
+150707d.JPG,No issues,2186,2113,414,549
+,Broken,2700,1882,427,523
+,Broken,0,1846,3151,2048
+,Broken,3598,2424,1523,1574
+,No issues,4435,3670,477,329
+,No issues,0,3279,359,559
+,No issues,4266,3418,476,432
+,No issues,4106,3170,476,432
+,No issues,3940,2926,476,432
+,No issues,3778,2670,476,432
+,No issues,3610,2432,476,432
+,No issues,100,3174,456,560
+,No issues,284,3070,456,560
+,No issues,478,2968,456,560
+,No issues,668,2862,456,560
+,No issues,854,2764,456,560
+,No issues,1040,2668,456,560
+,No issues,1224,2576,456,560
+,No issues,1412,2476,456,560
+,No issues,1594,2386,456,560
+,No issues,1772,2294,456,560
+,No issues,1954,2206,456,560
+,No issues,2316,2032,456,560
+,No issues,2490,1936,456,560
+161068d.JPG,No issues,1816,2494,851,476
+,No issues,1828,2144,839,506
+,Broken,1920,1089,800,377
+,Broken,1923,752,805,502
+,Broken,1890,1293,819,434
+,Broken,1831,1887,878,419
+,Broken,1771,662,997,2344
+140031d.JPG,No issues,905,1410,431,445
+,No issues,3336,209,950,1642
+,Broken,1474,925,442,470
+,Broken,2,17,3070,2813
+,No issues,3315,218,483,463
+,No issues,3495,452,454,458
+,No issues,3670,695,454,458
+,No issues,3833,933,454,458
+,No issues,0,2254,378,459
+,No issues,107,2076,460,451
+,No issues,295,1907,462,461
+,No issues,490,1740,462,461
+,No issues,682,1571,462,461
+,No issues,1085,1237,439,466
+,No issues,1282,1080,439,466
+,No issues,1668,774,429,458
+,No issues,1863,622,429,458
+,No issues,2055,467,429,458
+,No issues,2247,308,429,458
+,No issues,2439,168,429,458
+,No issues,2641,25,429,458
+160036.JPG,No issues,2025,1805,653,375
+,Broken,1966,1219,661,257
+,Broken,1941,1183,851,1825
+,No issues,1984,1445,663,416
+,No issues,2081,2170,653,375
+,No issues,2106,2509,653,375
+160674h.JPG,No issues,2170,330,580,301
+,No issues,2190,1183,569,295
+,Flashover damage,2192,1738,571,292
+,Flashover damage,2136,1,653,2142
+,No issues,2160,31,594,301
+,No issues,2171,607,594,301
+,No issues,2176,895,594,301
+,No issues,2181,1465,594,301
+170082h.JPG,No issues,1169,308,703,398
+,Broken,1176,902,714,397
+,Broken,1154,2,781,2135
+,No issues,1170,0,711,387
+,No issues,1181,595,703,398
+,No issues,1200,1193,703,398
+,No issues,1197,1506,703,398
+,No issues,1205,1789,689,347
+150477v.JPG,No issues,4616,2115,1380,1883
+,No issues,3580,1558,406,653
+,No issues,1827,1720,455,723
+,Flashover damage,2694,1621,445,699
+,Flashover damage,814,1831,582,753
+,Flashover damage,719,1477,3859,1130
+,Flashover damage,4174,1474,399,681
+,Flashover damage,3970,1524,399,681
+,Flashover damage,3373,1560,399,681
+,No issues,3768,1538,406,653
+,No issues,3156,1597,411,666
+,No issues,2944,1616,411,666
+,No issues,2522,1658,409,677
+,No issues,2301,1682,409,686
+,No issues,2089,1711,409,686
+,Flashover damage,1628,1764,436,694
+,No issues,1402,1793,432,698
+,No issues,1173,1831,444,696
+,No issues,4601,2156,585,473
+,No issues,4766,2482,585,473
+,No issues,4928,2799,585,473
+,No issues,5093,3116,585,473
+,No issues,5239,3445,585,473
+160047v.JPG,No issues,1951,2165,495,289
+,No issues,2072,118,484,278
+,No issues,2055,346,501,265
+,Flashover damage,2029,788,505,285
+,Flashover damage,2006,1248,500,265
+,Flashover damage,1959,1696,522,276
+,Flashover damage,1956,1934,509,277
+,Flashover damage,1923,2401,537,279
+,Flashover damage,1844,0,742,2884
+,No issues,1983,1464,514,296
+,No issues,2003,1012,514,296
+,No issues,2034,575,514,296
+,No issues,2097,0,492,165
+161500d.JPG,No issues,1807,1033,705,328
+,No issues,1833,1346,679,365
+,Broken,1822,396,661,425
+,Broken,1800,1943,656,425
+,Broken,1736,0,776,3002
+,No issues,1777,2596,704,401
+,No issues,1772,2288,704,401
+,No issues,1798,1635,704,401
+,No issues,1809,710,704,401
+,No issues,1825,88,704,401
+170090.JPG,No issues,2344,1880,92,178
+,Broken,2602,1878,78,171
+,Broken,1962,1825,1178,277
+,No issues,1986,1873,119,169
+,No issues,2083,1874,119,169
+,No issues,2165,1880,119,169
+,No issues,2254,1879,119,169
+,No issues,2415,1885,119,169
+,No issues,2494,1886,119,169
+,No issues,2658,1883,119,169
+,No issues,2737,1882,119,169
+,No issues,2826,1880,119,169
+,No issues,2425,1895,119,169
+,No issues,2990,1872,119,169
+170090v.JPG,No issues,2344,1621,92,178
+,Broken,2602,1630,78,171
+,Broken,1962,1577,1178,277
+,No issues,1986,1637,119,169
+,No issues,2083,1636,119,169
+,No issues,2165,1630,119,169
+,No issues,2254,1631,119,169
+,No issues,2415,1625,119,169
+,No issues,2494,1624,119,169
+,No issues,2658,1627,119,169
+,No issues,2737,1628,119,169
+,No issues,2826,1630,119,169
+,No issues,2425,1615,119,169
+,No issues,2990,1638,119,169
+170207v.JPG,No issues,1418,1705,326,188
+,No issues,1432,700,327,170
+,Broken,1430,1370,305,176
+,Broken,1415,1029,344,173
+,Broken,1373,358,393,1776
+,No issues,1417,1892,326,188
+,No issues,1423,1531,326,188
+,No issues,1427,1188,326,188
+,No issues,1434,852,326,188
+,No issues,1438,524,326,188
+,No issues,1438,345,326,188
+170506 (2)h.JPG,No issues,0,673,1362,995
+,No issues,2012,4,182,117
+,Broken,1487,1152,178,137
+,Broken,1385,1,825,1543
+,No issues,1973,68,185,144
+,No issues,1928,166,185,144
+,No issues,1882,268,185,144
+,No issues,1840,366,185,144
+,No issues,1791,464,185,144
+,No issues,1749,561,185,144
+,No issues,1704,654,185,144
+,No issues,1663,755,185,144
+,No issues,1617,853,185,144
+,No issues,1570,951,185,144
+,No issues,1528,1044,185,144
+,No issues,1435,1237,185,144
+,No issues,1392,1334,185,144
+,No issues,16,774,182,189
+,No issues,0,731,129,184
+,No issues,86,811,182,189
+,No issues,152,854,182,189
+,No issues,218,893,182,189
+,No issues,284,935,182,189
+,No issues,347,973,182,189
+,No issues,412,1015,182,189
+,No issues,474,1053,182,189
+,No issues,208,903,182,189
+,No issues,545,1091,182,189
+,No issues,609,1131,182,189
+,No issues,670,1171,182,189
+,No issues,724,1205,182,189
+,No issues,799,1242,182,189
+,No issues,860,1281,182,189
+,No issues,918,1313,182,189
+,No issues,986,1351,182,189
+,No issues,1048,1387,182,189
+,No issues,1112,1421,182,189
+,No issues,464,1063,182,189
+100015v.JPG,No issues,1438,843,312,171
+,Broken,1445,1189,310,166
+,Broken,1408,1,370,1745
+,No issues,1453,1503,315,223
+,No issues,1457,1343,303,185
+,No issues,1441,1003,303,185
+,No issues,1435,669,303,185
+,No issues,1429,515,303,185
+,No issues,1421,357,303,185
+,No issues,1420,197,303,166
+,No issues,1415,11,303,185
+170551.JPG,No issues,1301,634,401,224
+,Broken,1250,1044,446,212
+,Broken,1205,1,560,2136
+,No issues,1317,429,401,224
+,No issues,1342,210,401,224
+,No issues,1350,3,401,224
+,No issues,1282,838,395,214
+,No issues,1254,1260,395,214
+,No issues,1234,1468,395,214
+,No issues,1221,1670,395,214
+,No issues,1231,1680,395,214
+170551h.JPG,No issues,1513,634,401,224
+,Broken,1519,1044,446,212
+,Broken,1450,1,560,2136
+,No issues,1497,429,401,224
+,No issues,1472,210,401,224
+,No issues,1464,3,401,224
+,No issues,1538,838,395,214
+,No issues,1566,1260,395,214
+,No issues,1586,1468,395,214
+,No issues,1599,1670,395,214
+,No issues,1589,1680,395,214
+130045h.jpg,No issues,1914,601,396,216
+,No issues,2015,2283,352,190
+,No issues,2007,2145,353,194
+,No issues,1990,1983,364,215
+,Flashover damage,2030,2537,348,209
+,Flashover damage,1979,1723,364,187
+,Flashover damage,1991,1835,359,212
+,Flashover damage,1973,1561,371,206
+,Flashover damage,1963,1389,371,215
+,Flashover damage,1946,1082,377,224
+,Flashover damage,1926,757,394,224
+,Flashover damage,2020,201,291,284
+,Flashover damage,1881,178,555,2601
+,No issues,1927,957,399,193
+,No issues,1955,1254,373,199
+,Flashover damage,2021,2421,337,185
+150346h.JPG,No issues,1714,1744,416,209
+,No issues,1709,1331,419,228
+,No issues,1709,1128,422,227
+,Flashover damage,1722,2140,416,203
+,Flashover damage,1723,1942,412,209
+,Flashover damage,1715,1546,426,196
+,Flashover damage,1701,640,433,312
+,Flashover damage,1679,601,486,1991
+,No issues,1708,918,422,227
+,No issues,1726,2320,422,227
+150867v.JPG,No issues,2835,1789,247,361
+,Broken,2308,1540,207,392
+,Broken,1942,1425,3860,1827
+,Broken,1,1665,1558,1860
+,No issues,5464,2832,326,389
+,No issues,5313,2779,263,371
+,No issues,5152,2719,263,371
+,No issues,4987,2645,263,371
+,No issues,4815,2574,263,371
+,No issues,4657,2514,263,371
+,No issues,4503,2447,263,371
+,No issues,4342,2391,263,371
+,No issues,4188,2320,263,371
+,No issues,4030,2260,263,371
+,No issues,3885,2196,263,371
+,No issues,3732,2140,263,371
+,No issues,3574,2073,263,371
+,No issues,3420,2024,263,371
+,No issues,3277,1953,263,371
+,No issues,3134,1897,263,371
+,No issues,2980,1841,263,371
+,No issues,2697,1735,263,371
+,No issues,2550,1664,263,371
+,No issues,1980,1458,263,371
+,No issues,1237,1690,296,289
+,No issues,1111,1826,296,289
+,No issues,985,1962,296,289
+,No issues,852,2088,296,289
+,No issues,734,2217,296,289
+,No issues,587,2357,296,289
+,No issues,472,2486,296,289
+,No issues,357,2615,296,289
+,No issues,217,2744,296,289
+,No issues,99,2880,296,289
+,No issues,0,3014,245,277
+,No issues,2113,1516,238,350
+150867d.JPG,No issues,2917,1789,247,361
+,Broken,3484,1540,207,392
+,Broken,197,1425,3860,1827
+,Broken,4440,1665,1558,1860
+,No issues,209,2832,326,389
+,No issues,423,2779,263,371
+,No issues,584,2719,263,371
+,No issues,749,2645,263,371
+,No issues,921,2574,263,371
+,No issues,1079,2514,263,371
+,No issues,1233,2447,263,371
+,No issues,1394,2391,263,371
+,No issues,1548,2320,263,371
+,No issues,1706,2260,263,371
+,No issues,1851,2196,263,371
+,No issues,2004,2140,263,371
+,No issues,2162,2073,263,371
+,No issues,2316,2024,263,371
+,No issues,2459,1953,263,371
+,No issues,2602,1897,263,371
+,No issues,2756,1841,263,371
+,No issues,3039,1735,263,371
+,No issues,3186,1664,263,371
+,No issues,3756,1458,263,371
+,No issues,4466,1690,296,289
+,No issues,4592,1826,296,289
+,No issues,4718,1962,296,289
+,No issues,4851,2088,296,289
+,No issues,4969,2217,296,289
+,No issues,5116,2357,296,289
+,No issues,5231,2486,296,289
+,No issues,5346,2615,296,289
+,No issues,5486,2744,296,289
+,No issues,5604,2880,296,289
+,No issues,5754,3014,245,277
+,No issues,3648,1516,238,350
+161212v.JPG,No issues,1684,548,1159,628
+,Flashover damage,1625,1218,1226,990
+,Flashover damage,1604,0,1348,2264
+,No issues,1699,224,1159,628
+,No issues,1706,0,1148,555
+170099d.JPG,No issues,753,1817,371,201
+,No issues,798,836,351,198
+,No issues,798,1074,344,205
+,Flashover damage,780,1314,363,204
+,Flashover damage,741,2348,378,288
+,Flashover damage,704,447,505,2227
+,No issues,746,2082,379,210
+,No issues,745,1957,379,210
+,No issues,758,1695,379,210
+,No issues,754,1576,379,210
+,No issues,744,1566,379,210
+,No issues,797,713,353,210
+,No issues,801,603,353,210
+,No issues,802,473,353,210
+170823 (2).JPG,No issues,2828,823,433,242
+,No issues,2797,1256,438,242
+,Broken,2760,2127,414,222
+,Broken,2749,1696,459,197
+,Broken,2648,65,713,2968
+,No issues,2871,387,433,242
+,No issues,2848,607,433,242
+,No issues,2812,1031,433,242
+,No issues,2776,1464,433,242
+,No issues,2750,1888,433,242
+,No issues,2714,2321,433,242
+,No issues,2701,2538,433,242
+,No issues,2681,2745,433,242
+,Flashover damage,2885,108,440,296
+130027.jpg,No issues,2023,752,370,197
+,Flashover damage,2004,303,378,297
+,Flashover damage,1964,292,468,2467
+,No issues,2020,1100,370,197
+,Flashover damage,2027,932,376,179
+,No issues,2020,1250,370,197
+,No issues,2022,1412,370,197
+,No issues,2024,1574,370,197
+,No issues,2011,1729,370,197
+,No issues,2026,1891,370,197
+,No issues,2033,2051,370,197
+,No issues,2028,2198,370,197
+,No issues,2018,2340,370,197
+,No issues,2031,2502,370,197
+170124.JPG,No issues,1753,331,451,229
+,Broken,1746,945,449,233
+,Broken,1729,1,496,1214
+,No issues,1763,123,451,229
+,No issues,1752,541,451,229
+,No issues,1749,730,451,229
+,No issues,1754,0,452,145
+170124h.JPG,No issues,1011,331,451,229
+,Broken,1020,945,449,233
+,Broken,990,1,496,1214
+,No issues,1001,123,451,229
+,No issues,1012,541,451,229
+,No issues,1015,730,451,229
+,No issues,1009,0,452,145
+170124v.JPG,No issues,1753,1575,451,229
+,Broken,1746,957,449,233
+,Broken,1729,920,496,1214
+,No issues,1763,1783,451,229
+,No issues,1752,1365,451,229
+,No issues,1749,1176,451,229
+,No issues,1754,1990,452,145
+170223v.JPG,No issues,1091,1558,440,230
+,No issues,1100,1779,446,258
+,Broken,1029,623,451,265
+,Broken,1041,841,483,262
+,Broken,1008,0,583,2135
+,No issues,1076,1312,446,258
+,No issues,1063,1064,446,258
+,No issues,1048,366,446,258
+,No issues,1060,146,446,258
+,No issues,1036,0,439,166
+170526v.JPG,No issues,1899,1465,383,389
+,No issues,1765,1331,362,416
+,Broken,1348,1036,294,308
+,Broken,1042,781,308,395
+,Broken,41,30,2538,2092
+,No issues,2046,1575,370,408
+,No issues,2182,1720,393,404
+,No issues,1615,1228,374,406
+,No issues,762,559,366,398
+,No issues,614,453,356,401
+,No issues,487,359,356,401
+,No issues,346,252,356,401
+,No issues,198,147,356,401
+,No issues,56,40,356,401
+170853 (2)v.JPG,No issues,3416,449,417,407
+,No issues,3199,676,443,412
+,Broken,2277,1789,448,412
+,Broken,3782,61,435,377
+,Broken,2620,1374,483,374
+,Broken,1512,27,2732,3120
+,No issues,3583,255,431,409
+,No issues,3025,911,431,409
+,No issues,2096,2034,431,409
+,No issues,1922,2270,431,409
+,No issues,1732,2480,431,409
+,No issues,1545,2737,437,414
+150602 (2).JPG,No issues,2916,1234,723,443
+,Broken,2882,1868,725,434
+,Broken,2793,1,963,3271
+,No issues,2997,0,723,443
+,No issues,2986,303,723,443
+,No issues,2964,606,723,443
+,No issues,2931,934,723,443
+,No issues,2870,2154,723,443
+,No issues,2862,2439,723,443
+,No issues,2818,2734,723,443
+150602 (2)h.JPG,No issues,2360,1234,723,443
+,Broken,2392,1868,725,434
+,Broken,2243,1,963,3271
+,No issues,2279,0,723,443
+,No issues,2290,303,723,443
+,No issues,2312,606,723,443
+,No issues,2345,934,723,443
+,No issues,2406,2154,723,443
+,No issues,2414,2439,723,443
+,No issues,2458,2734,723,443
+160096.JPG,No issues,1612,2046,1134,683
+,Flashover damage,1629,926,1146,876
+,Flashover damage,1532,837,1277,2172
+,No issues,1627,1593,1134,683
+,No issues,1624,2504,1137,504
+170128d.JPG,No issues,1271,323,389,188
+,No issues,1226,688,410,200
+,No issues,1235,505,404,198
+,Broken,1119,1837,397,233
+,Broken,1249,1081,284,181
+,Broken,1160,1438,359,184
+,Broken,1093,14,624,2110
+,No issues,1205,875,398,267
+,No issues,1166,1237,398,267
+,No issues,1130,1603,398,267
+,No issues,1103,1989,389,146
+150344v.JPG,No issues,1831,1437,386,210
+,No issues,1820,1039,384,201
+,No issues,1815,634,384,191
+,No issues,1810,429,386,204
+,Flashover damage,1805,219,384,214
+,Flashover damage,1810,820,388,205
+,Flashover damage,1819,1233,404,204
+,Flashover damage,1831,1838,399,251
+,Flashover damage,1761,0,498,2120
+,No issues,1834,1640,386,210
+,No issues,1800,10,386,210
+170160.JPG,No issues,1325,320,416,347
+,Broken,984,893,413,328
+,Broken,676,1,1391,1817
+,Broken,1,961,615,1036
+,No issues,1419,137,416,347
+,No issues,1551,0,383,302
+,No issues,1221,505,396,353
+,No issues,1142,685,376,313
+,No issues,885,1061,409,351
+,No issues,791,1218,409,351
+,Broken,659,1469,413,328
+,No issues,210,1586,411,387
+,No issues,103,1464,411,387
+,No issues,1,1309,411,387
+170277 (2)h.JPG,No issues,1719,984,282,330
+,Flashover damage,1528,863,300,309
+,Flashover damage,1504,845,1455,1118
+,No issues,1800,1062,282,330
+,No issues,1887,1127,282,330
+,No issues,1976,1197,282,330
+,No issues,2074,1259,282,330
+,No issues,2163,1321,282,330
+,No issues,2254,1383,282,330
+,No issues,2348,1436,282,330
+,No issues,2443,1479,282,330
+,No issues,2537,1538,282,330
+,No issues,2643,1581,282,330
+,No issues,3343,1321,280,270
+,No issues,3453,1175,226,280
+100201v.JPG,No issues,177,837,288,496
+,No issues,1559,769,288,530
+,No issues,2125,750,317,531
+,No issues,2322,726,315,547
+,No issues,2525,715,317,558
+,Flashover damage,2946,692,271,544
+,Flashover damage,1931,748,280,532
+,Flashover damage,1382,784,272,510
+,Flashover damage,1031,798,258,507
+,Flashover damage,689,813,247,502
+,Flashover damage,521,830,247,492
+,Flashover damage,120,653,3097,697
+,No issues,2719,715,288,539
+,No issues,1754,762,288,530
+,No issues,1203,793,288,530
+,No issues,845,801,288,530
+,No issues,357,829,288,530
+150878h.JPG,No issues,2721,1278,359,232
+,No issues,2678,1102,345,225
+,Broken,2861,1654,308,182
+,Broken,2910,2038,355,207
+,Broken,2382,1,1137,3214
+,No issues,2632,911,345,225
+,No issues,2590,717,345,225
+,No issues,2543,528,345,225
+,No issues,2498,345,345,225
+,No issues,2453,156,345,225
+,No issues,2417,0,336,185
+,No issues,2755,1457,359,232
+,No issues,2844,1823,359,232
+,No issues,2935,2205,359,232
+,No issues,2984,2388,359,232
+,No issues,3030,2575,359,232
+,No issues,3095,2773,341,214
+,No issues,3139,2956,342,225
+,No issues,3515,3597,804,403
+,No issues,3515,3607,310,323
+,No issues,3612,3660,310,323
+,No issues,3691,3723,305,277
+170040v.JPG,No issues,3351,3015,509,240
+,Broken,3337,2139,499,224
+,Broken,3268,401,702,3293
+,No issues,3368,3265,479,321
+,No issues,3368,2804,469,267
+,No issues,3366,2580,469,267
+,No issues,3366,2348,469,267
+,No issues,3366,1902,469,267
+,No issues,3366,1678,469,267
+,No issues,3366,1460,469,267
+,No issues,3369,1231,469,267
+,No issues,3367,1007,469,267
+,No issues,3367,775,469,267
+,No issues,3372,551,469,267
+170164v.JPG,No issues,736,1858,346,189
+,No issues,748,1568,355,193
+,No issues,746,1719,336,177
+,No issues,750,1168,344,177
+,No issues,756,1435,330,178
+,No issues,740,2006,342,189
+,Flashover damage,757,767,335,188
+,Flashover damage,776,528,314,162
+,Flashover damage,726,2302,356,265
+,Flashover damage,641,248,559,2342
+,No issues,733,2155,339,204
+,No issues,752,1297,339,204
+,No issues,765,1029,324,203
+,No issues,765,905,324,203
+,No issues,764,643,324,203
+,Flashover damage,785,397,309,168
+,No issues,789,271,310,204
+170571h.JPG,No issues,670,310,486,229
+,No issues,661,75,477,239
+,Broken,677,1161,471,246
+,Broken,688,1575,485,221
+,Broken,686,1402,485,220
+,Broken,670,755,473,176
+,Broken,666,528,438,237
+,Broken,643,1,554,1887
+,No issues,670,892,475,293
+150815.JPG,No issues,3202,1848,309,398
+,Flashover damage,1488,1122,351,413
+,Flashover damage,1438,1076,4140,2000
+,No issues,1701,1203,309,398
+,No issues,1874,1278,309,398
+,No issues,2037,1356,309,398
+,No issues,2207,1427,309,398
+,No issues,2373,1495,309,398
+,No issues,2543,1576,309,398
+,No issues,2709,1651,309,398
+,No issues,2892,1719,309,398
+,No issues,3048,1777,309,398
+,No issues,3353,1909,309,398
+,No issues,3523,1973,309,398
+,No issues,3672,2041,309,398
+,No issues,3838,2105,309,398
+,No issues,3991,2166,309,398
+,No issues,4157,2227,309,398
+,No issues,4310,2281,309,398
+,No issues,4452,2342,309,398
+,No issues,4601,2413,309,398
+,No issues,4754,2457,309,398
+,No issues,4907,2535,309,398
+,No issues,5066,2562,309,398
+,No issues,5229,2623,309,398
+160376v.JPG,No issues,2583,1635,326,439
+,Broken,2066,1472,291,411
+,Broken,479,890,3014,1409
+,No issues,2762,1702,326,439
+,No issues,2941,1763,326,439
+,No issues,3127,1837,342,442
+,No issues,2422,1569,326,439
+,No issues,1912,1378,285,444
+,No issues,1735,1324,291,444
+,No issues,1559,1271,309,436
+,No issues,1390,1202,284,444
+,No issues,1226,1143,284,444
+,No issues,1042,1097,292,434
+,No issues,878,1038,292,434
+,No issues,707,979,292,434
+,No issues,541,920,292,434
+160437.JPG,Flashover damage,1907,2,826,3006
+,No issues,2012,1167,624,365
+,No issues,2027,876,624,365
+,No issues,2055,319,624,365
+,No issues,2001,1432,624,365
+,No issues,1985,1702,624,365
+,No issues,2077,42,624,365
+,No issues,2029,626,638,349
+,No issues,1957,2237,638,349
+,No issues,1947,2518,638,349
+,No issues,1931,2788,624,220
+,No issues,1990,1972,621,359
+100213.JPG,No issues,1140,380,623,356
+,Flashover damage,1110,1254,592,360
+,Flashover damage,1078,1,732,1667
+,No issues,1139,160,623,356
+,No issues,1140,618,623,356
+,No issues,1126,817,623,356
+,No issues,1118,1037,623,356
+,No issues,1150,0,639,281
+130119h.jpg,No issues,1921,1168,682,387
+,Flashover damage,1901,245,716,508
+,Flashover damage,1875,205,795,2644
+,No issues,1918,646,714,394
+,No issues,1908,907,714,394
+,No issues,1913,1398,714,394
+,No issues,1918,1621,714,394
+,No issues,1918,1839,714,394
+,No issues,1908,2040,714,394
+,No issues,1957,2241,657,385
+,No issues,1952,2442,657,385
+160852d.JPG,No issues,0,779,4076,1818
+,Flashover damage,1956,1077,628,850
+,Flashover damage,1394,1215,628,850
+,Flashover damage,802,1352,628,882
+,No issues,169,1516,628,901
+,No issues,3519,837,531,794
+,No issues,3335,850,531,794
+,No issues,3141,878,531,794
+,No issues,2960,914,531,794
+,No issues,2815,960,531,794
+,No issues,2616,991,531,794
+,No issues,356,1290,531,794
+170828 (2)d.JPG,No issues,2439,1140,464,247
+,No issues,2552,2181,443,247
+,Broken,2443,977,432,244
+,Broken,2400,572,682,2497
+,No issues,2597,2742,462,315
+,No issues,2578,2548,465,259
+,No issues,2549,2360,465,259
+,No issues,2536,2012,443,247
+,No issues,2504,1652,443,247
+,No issues,2519,1839,443,247
+,No issues,2487,1473,443,247
+,No issues,2458,1301,443,247
+,No issues,2422,621,405,250
+170859 (2)h.JPG,No issues,2516,1545,453,278
+,Broken,2374,455,470,346
+,Broken,2363,449,802,2803
+,No issues,2403,790,444,216
+,No issues,2431,930,453,278
+,No issues,2458,1152,453,278
+,No issues,2485,1343,453,278
+,No issues,2537,1750,453,278
+,No issues,2555,1947,453,278
+,No issues,2589,2151,453,278
+,No issues,2623,2348,453,278
+,No issues,2650,2545,453,278
+,No issues,2671,2746,453,278
+,No issues,2692,2940,453,278
+170365h.JPG,No issues,1716,1001,1963,1455
+,Flashover damage,1735,1015,465,459
+,Flashover damage,2913,2064,401,392
+,No issues,2679,1847,396,451
+,No issues,2544,1728,396,451
+,No issues,1912,1148,413,449
+,No issues,2031,1260,413,449
+,No issues,2163,1393,413,449
+,No issues,2289,1507,413,449
+170869 (2)d.JPG,No issues,2454,970,392,221
+,No issues,2500,1305,392,226
+,Broken,2538,1650,417,186
+,Broken,2644,2546,435,192
+,Broken,2400,613,728,2430
+,No issues,2432,801,392,221
+,No issues,2406,616,392,221
+,No issues,2480,1134,392,221
+,No issues,2576,1846,392,221
+,No issues,2628,2180,392,221
+,No issues,2621,1995,392,221
+,Flashover damage,2706,2732,397,278
+,No issues,2531,1473,392,179
+000000986.jpeg,No issues,710,345,599,1079
+,Broken,921,355,366,296
+,No issues,849,768,391,244
+,No issues,803,939,391,244
+,No issues,773,1103,391,244
+,No issues,719,1267,388,157
+,No issues,880,650,403,188
+000000986v.jpeg,No issues,710,0,599,1079
+,Broken,921,772,366,296
+,No issues,849,411,391,244
+,No issues,803,240,391,244
+,No issues,773,76,391,244
+,No issues,719,0,388,157
+,No issues,880,585,403,188
